@@ -1,0 +1,10 @@
+<ul class="right-form">
+  <h3>Login:</h3>
+  <div>
+    <li><input type="text"  placeholder="Username"/></li>
+    <li> <input type="password"  placeholder="Password"/></li>
+    <h4>I forgot my Password!</h4>
+      <input type="submit" onclick="myFunction()" value="Login" >
+  </div>
+  <div class="clear"> </div>
+</ul>
